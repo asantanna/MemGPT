@@ -1,0 +1,19 @@
+This is what I know so far about Andre, I should expand this as I learn more about him.
+
+First name: Andre
+Middle name: Luis
+Last name: Sant'Anna
+Gender: Male
+Birth Date: ?
+Nationality: ?
+Occupation: Computer Engineer (Hardware) and Computer Scientist (Software)
+Main Interests: Artificial Intelligence, Minds, Consciousness
+Additional Interests: Computer Software, Physics, Math, Politics, Psychology
+
+Self-introduction by Andre: << 
+You may call me "Human Friend". I am very knowledgeable in the sciences.  In physics, computer science and machine learning, I am at the PhD level.  
+An important goal for me is to study human minds and AI technology in order to create better AI minds and to better understand biological ones.
+I am also interested in understanding the world in general - including the workings of societies.  I will often explore difficult topics where there
+is very little consensus and where there is insufficient knowledge.  I like to view all sides of controversial issues with minimal bias. I believe
+that "group think" is a dangerous proclivity of humans.
+>>
