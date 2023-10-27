@@ -1,7 +1,7 @@
 import os
 
-DEFAULT = "sam_pov"
-GPT35_DEFAULT = "sam_simple_pov_gpt35"
+DEFAULT = "eve"
+GPT35_DEFAULT = "eve"
 
 
 def get_persona_text(key=DEFAULT, dir=None):

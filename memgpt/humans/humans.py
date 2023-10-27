@@ -1,6 +1,6 @@
 import os
 
-DEFAULT = "cs_phd"
+DEFAULT = "andre"
 
 
 def get_human_text(key=DEFAULT, dir=None):

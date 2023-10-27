@@ -1,6 +1,7 @@
 import os
 
-MEMGPT_DIR = os.path.join(os.path.expanduser("~"), ".memgpt")
+# MEMGPT_DIR = os.path.join(os.path.expanduser("~"), ".memgpt")
+MEMGPT_DIR = 'E:/ALS-Projects/eve2023/MemGPT/ALS/.memgpt'
 
 DEFAULT_MEMGPT_MODEL = "gpt-4"
 
